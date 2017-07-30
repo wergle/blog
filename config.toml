@@ -12,7 +12,7 @@ publishDir = "docs"
 
 
 [Params]
-  subtitle = "Our home educating wanderings"
+  subtitle = "Home educating wanderings "
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
