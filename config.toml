@@ -1,4 +1,4 @@
-baseurl = "https://wergle.github.io"
+baseurl = "https://wergle.github.io/blog"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Wergle"
